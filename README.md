@@ -4,5 +4,5 @@ This is the write out of ReInventing Neural Networks by [Byte-Master-101](https:
 
 [Code project resource](https://www.codeproject.com/Articles/1220276/ReInventing-Neural-Networks)
 
-Recommended (video)[https://www.youtube.com/embed/aircAruvnKk] by author.
+Recommended [video](https://www.youtube.com/embed/aircAruvnKk) by author.
 
